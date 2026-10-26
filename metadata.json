@@ -1,0 +1,6 @@
+{
+  "name": "Binance - Nayan Rangjika Wallet & Exchange",
+  "description": "Binance crypto exchange platform for Nayan Rangjika with 13,099 USDT balance, QR code scanning, and crypto address transfers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
